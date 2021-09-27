@@ -1,2 +1,2 @@
 # senai-versoes-colaboracoes
-Readme de exemplo
+Olá, me chamo Danyel, não sabia que existia um programa justamente para atender essa finalidade de gestão de versões, testei cada comando no exemplo abordado no material digital, essa UC agregou demais, porque consigui ver aplicação direta do conteúdo aprendido com uma necessidade em evidência no mundo real, a opção de criar varias versões, rastrear as versões, documentar cada modificação, trabalhar em ramos diferentes para cada tarefa ou usuário, além de convergir os arquivos uma vez validados, tudo isso abriu muito a minha mente para com versionamento.
